@@ -11,6 +11,7 @@ public class Cliente {
     private String dni;
     private String telefono;
 
+
     public Cliente(String nombre, String dni, String telefono) {
         setNombre(nombre);
         setDni(dni);
